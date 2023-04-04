@@ -1,0 +1,70 @@
+These Terms of Use govern your use of the “flick” application owned by We. By downloading or using our app , these terms will automatically apply to you. You should make sure that you read them carefully before using the app. 
+
+
+We are committed to protecting your privacy. Flick does not store any data (such as your phone number or email address) that lets us or any other third party identify your real identity. Flick deletes your work email post verification.
+Our privacy policy describes how we handle the information you provide to us when you use our Services. By using our services you consent to the collection and use of your data as set forth by our privacy policy.
+
+It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Flick app won’t work properly or at all.
+
+Content on Flick
+You are responsible for your use of the Services and for any Content you provide, including compliance with applicable laws.
+
+Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk. We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive.
+
+We reserve the right to remove any content & ban users in case of violations to our community guidelines, including for example, copyright or trademark violations or other intellectual property misappropriation, impersonation, unlawful conduct, or harassment. 
+
+If you believe that your Content has been copied in a way that constitutes copyright infringement, please report this by contacting us at support@theflick.in.
+
+Your Rights and Grant of Rights in the Content
+You retain rights to any Content you submit, post or display on or through the Services. You own your Content (and your incorporated audio, photos and videos are considered part of the Content).
+
+By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods now known or later developed (for clarity, these rights include, for example, curating, transforming, and translating). This license authorises us to make your Content available to the rest of the world and to let others do the same. You agree that this license includes the right for us to provide, promote, and improve the Services and to make Content submitted to or through the Services available to other companies, organisations or individuals for the syndication, broadcast, distribution, promotion or publication of such Content on other media and services. Such additional uses by us, or other companies, organisations or individuals, is made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services as the use of the Services by you is hereby agreed as being sufficient compensation for the Content and grant of rights herein.
+
+You represent and warrant that you have, or have obtained, all rights, licenses, consents, permissions, power and/or authority necessary to grant the rights granted herein for any Content that you submit, post or display on or through the Services. You agree that such Content will not contain material subject to copyright or other proprietary rights, unless you have necessary permission or are otherwise legally entitled to post the material and to grant Twitter the license described above.
+
+Limitation of Liability
+We are an intermediary as defined under the Information Technology Act, 2000 and the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. These Terms are published in accordance with the provisions of Rule 3(1) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 that require publishing of the rules and regulations, Privacy Policy, and Terms of Use for accessing and using our Platform. Our role is limited to providing a platform for users to upload, share and display content, created or shared by you and other users.
+
+We shall not be liable for any damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from
+
+your access to or use of or inability to access or use the services;
+any conduct or content of any user on the services, including without limitation, any defamatory, offensive or illegal conduct of by the users;
+any content obtained from the services; or
+unauthorised access, use or alteration of your transmissions or content.
+We are an intermediary under Indian law. We do not control what people post on our Platform but we expect everyone to comply with our Community Guidelines.
+
+Your use of our services
+You also agree not to misuse our Services, for example, by interfering with them or accessing them using a method other than the interface and the instructions that we provide. You are not allowed to copy or modify the app, any part of the app, or our trademarks or try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to We.
+
+You agree that you will not work around any technical limitations in the software provided to you as part of the Services, or reverse engineer, decompile or disassemble the software. You may not do any of the following while accessing or using the Services:
+
+access, tamper with, or use non-public areas of the Services, our computer systems, or the technical delivery systems of our providers;
+probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures;
+access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by us
+forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information; or
+interfere with, or disrupt, (or attempt to do so), the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services.
+We is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+
+Use and Performance of the mobile application
+You should be aware that there are certain things that We will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but We cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+
+If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+
+Along the same lines, We cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, We cannot accept responsibility.
+
+With respect to We’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. We accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+
+At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for the both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. We does not promise that it will always update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you.
+
+Unless we tell you otherwise, upon any termination, 
+
+the rights and licenses granted to you in these terms will end;
+you must stop using the app, and (if needed) delete it from your device
+How Will We Handle Disputes?
+In all cases, you agree that disputes will be subject to the laws of India and the courts of Bangalore shall have exclusive jurisdiction over all such disputes.
+
+Changes to our Terms & Conditions
+We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. 
+
+Contact us
+For any queries related to the application and your privacy please contact support@theflick.in
